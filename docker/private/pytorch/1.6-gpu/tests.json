@@ -1,0 +1,20 @@
+[
+    {
+      "vm_size": "STANDARD_NC24rs_v3",
+      "source_directory": "base_images/tests/sample_scripts/pytorch/1.1",
+      "script_name": "pytorch_mnist.py",
+      "use_gpu": true
+    },
+    {
+      "vm_size": "STANDARD_NC24rs_v3",
+      "node_count": 2,
+      "process_count_per_node": 4,
+      "source_directory": "base_images/tests/sample_scripts/pytorch/1.1",
+      "script_name": "pytorch_horovod_mnist.py",
+      "communicator": "OpenMpi",
+      "use_gpu": true,
+      "environment_variables": {
+        "NCCL_TREE_THRESHOLD": "0"
+      }
+    }
+  ]

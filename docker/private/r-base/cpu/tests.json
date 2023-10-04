@@ -1,0 +1,8 @@
+[
+  {
+    "vm_size": "STANDARD_DS4_V2",
+    "framework":  "R",
+    "script_name": "train.R",
+    "source_directory": "base_images/tests/sample_scripts/R/iris"
+  }
+]

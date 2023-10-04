@@ -1,0 +1,13 @@
+[
+  {
+    "vm_size": "Standard_DS4_v2",
+    "script_name": "vw_cb_personalization.py",
+    "source_directory": "base_images/tests/sample_scripts/vowpalwabbit/8.8.0"
+  },
+  {
+    "vm_size": "Standard_DS4_v2",
+    "node_count" : 1,
+    "script_name": "vw_train_model.py",
+    "source_directory": "base_images/tests/sample_scripts/vowpalwabbit/8.8.0"
+  }
+]

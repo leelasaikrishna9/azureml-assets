@@ -1,0 +1,8 @@
+# Add git source code
+RUN mkdir /3p_src && \
+    mkdir /3p_src/git && \
+    cd /3p_src/git && \
+    wget https://codeload.github.com/git/git/tar.gz/v2.7.4
+
+# Copy TPN & License files
+COPY ThirdPartyNotices.txt LICENSE.txt \

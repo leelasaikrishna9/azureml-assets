@@ -1,0 +1,17 @@
+[
+  {
+    "vm_size": "STANDARD_NC24rs_v3",
+    "script_name": "tf_mnist.py",
+    "source_directory": "base_images/tests/sample_scripts/tensorflow/2.0",
+    "use_gpu": true
+  },
+  {
+    "vm_size": "STANDARD_NC24rs_v3",
+    "node_count": 2,
+    "process_count_per_node": 1,
+    "script_name": "tf_mnist.py",
+    "source_directory": "base_images/tests/sample_scripts/tensorflow/2.0",
+    "communicator": "OpenMpi",
+    "use_gpu": true
+  }
+]

@@ -1,0 +1,2 @@
+# Copy TPN & License files
+COPY ThirdPartyNotices.txt AzureML-License.txt /

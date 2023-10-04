@@ -1,0 +1,27 @@
+FROM mcr.microsoft.com/mirror/docker/library/ubuntu:20.04
+
+WORKDIR /workspace
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    wget \
+    g++ \
+    curl \
+    libopencv-dev \
+    libopencv-core-dev \
+    pkg-config \
+    python3 \
+    python3-pip \
+    python3-dev
+
+RUN python3 -m pip install --upgrade wheel setuptools
+RUN python3 -m pip install --upgrade grpcio-tools numpy pillow
+
+RUN mkdir clients
+RUN wget https://github.com/triton-inference-server/server/releases/download/v2.7.0/v2.7.0_ubuntu2004.clients.tar.gz
+RUN tar -zxf v2.7.0_ubuntu2004.clients.tar.gz -C clients
+RUN python3 -m pip install --upgrade clients/python/tritonclient-2.7.0-py3-none-manylinux1_x86_64.whl[all]
+
+COPY images /workspace/images

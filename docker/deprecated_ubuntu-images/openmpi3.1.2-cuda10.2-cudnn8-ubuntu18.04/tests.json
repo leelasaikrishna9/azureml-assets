@@ -1,0 +1,23 @@
+[
+  {
+    "vm_size": "STANDARD_NC6s_v3",
+    "source_directory": "base_images/tests/sample_scripts/pytorch/1.0",
+    "script_name": "pytorch_mnist.py",
+    "use_gpu": true,
+    "pip_packages": ["torch==1.0", "pillow==6.2.1", "torchvision==0.2.1"]
+  },
+  {
+    "vm_size": "STANDARD_NC6s_v3",
+    "node_count": 2,
+    "process_count_per_node": 1,
+    "source_directory": "base_images/tests/sample_scripts/tensorflow/2.0",
+    "script_name": "tf_mnist.py",
+    "communicator": "OpenMpi",
+    "use_gpu": true,
+    "pip_packages": [ "tensorflow-gpu==2.0.0", "horovod==0.18.1" ],
+    "environment_variables": {
+      "NCCL_SOCKET_IFNAME": "eth0",
+      "NCCL_IB_DISABLE": "1"
+    }
+  }
+]

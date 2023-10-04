@@ -1,0 +1,1 @@
+base-gpu:intelmpi2018.3-cuda10.0-cudnn7-ubuntu16.04 base-gpu:latest

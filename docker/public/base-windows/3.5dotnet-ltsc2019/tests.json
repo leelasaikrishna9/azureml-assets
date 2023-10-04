@@ -1,0 +1,9 @@
+[
+  {
+    "vm_size": "STANDARD_D3_V2",
+    "node_count": 1,
+    "source_directory": "base_images/tests/sample_scripts/windowsservercore/3.5dotnet-ltsc2019",
+    "script_name": "sleep.py",
+    "os_platform": "windows"
+  }
+]

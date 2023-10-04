@@ -1,0 +1,122 @@
+[
+  {
+    "Component": {
+      "Type": 13,
+      "Linux": {
+        "Distribution": 6,
+        "Release": "18.04.4",
+        "Name": "binutils",
+        "Version": "2.30-21ubuntu1~18.04.3"
+      }
+    },
+    "PolicyProperties": {},
+    "IsManual": false,
+    "DependencyRoots": [
+      {
+        "Type": 13,
+        "Linux": {
+          "Distribution": 6,
+          "Release": "18.04.4",
+          "Name": "binutils",
+          "Version": "2.30-21ubuntu1~18.04.3"
+        }
+      }
+    ],
+    "DetectedComponentLocations": [
+      "/sha256:9340846d0420a0002fcd7dc8a4a173cd91054d2bb0a7f18e6ed07fb12468d51e"
+    ],
+    "ContainerDetailIds": [
+      1
+    ]
+  },
+  {
+    "Component": {
+      "Type": 13,
+      "Linux": {
+        "Distribution": 6,
+        "Release": "18.04.4",
+        "Name": "wget",
+        "Version": "1.19.4-1ubuntu2.2"
+      }
+    },
+    "PolicyProperties": {},
+    "IsManual": false,
+    "DependencyRoots": [
+      {
+        "Type": 13,
+        "Linux": {
+          "Distribution": 6,
+          "Release": "18.04.4",
+          "Name": "wget",
+          "Version": "1.19.4-1ubuntu2.2"
+        }
+      }
+    ],
+    "DetectedComponentLocations": [
+      "/sha256:9340846d0420a0002fcd7dc8a4a173cd91054d2bb0a7f18e6ed07fb12468d51e"
+    ],
+    "ContainerDetailIds": [
+      1
+    ]
+  },
+  {
+    "Component": {
+      "Type": 13,
+      "Linux": {
+        "Distribution": 6,
+        "Release": "18.04.4",
+        "Name": "libheimntlm0-heimdal",
+        "Version": "7.5.0+dfsg-1"
+      }
+    },
+    "PolicyProperties": {},
+    "IsManual": false,
+    "DependencyRoots": [
+      {
+        "Type": 13,
+        "Linux": {
+          "Distribution": 6,
+          "Release": "18.04.4",
+          "Name": "libheimntlm0-heimdal",
+          "Version": "7.5.0+dfsg-1"
+        }
+      }
+    ],
+    "DetectedComponentLocations": [
+      "/sha256:9340846d0420a0002fcd7dc8a4a173cd91054d2bb0a7f18e6ed07fb12468d51e"
+    ],
+    "ContainerDetailIds": [
+      1
+    ]
+  },
+  {
+    "Component": {
+      "Type": 13,
+      "Linux": {
+        "Distribution": 6,
+        "Release": "18.04.4",
+        "Name": "libp11-kit0",
+        "Version": "0.23.9-2"
+      }
+    },
+    "PolicyProperties": {},
+    "IsManual": false,
+    "DependencyRoots": [
+      {
+        "Type": 13,
+        "Linux": {
+          "Distribution": 6,
+          "Release": "18.04.4",
+          "Name": "libp11-kit0",
+          "Version": "0.23.9-2"
+        }
+      }
+    ],
+    "DetectedComponentLocations": [
+      "/sha256:9340846d0420a0002fcd7dc8a4a173cd91054d2bb0a7f18e6ed07fb12468d51e"
+    ],
+    "ContainerDetailIds": [
+      1
+    ]
+  }
+]

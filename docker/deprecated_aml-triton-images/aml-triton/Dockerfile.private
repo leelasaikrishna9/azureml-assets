@@ -1,0 +1,11 @@
+# Add git source code
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends wget && \
+    mkdir /3p_src && \
+    mkdir /3p_src/git && \
+    cd /3p_src/git && \
+    wget https://codeload.github.com/git/git/tar.gz/v2.7.4 && \
+    apt-get --purge remove -y wget
+
+# Copy TPN & License files
+COPY ThirdPartyNotices.txt LICENSE.txt /

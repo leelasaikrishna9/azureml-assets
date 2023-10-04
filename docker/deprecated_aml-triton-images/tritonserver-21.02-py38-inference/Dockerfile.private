@@ -1,0 +1,13 @@
+# Add git source code
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends wget && \
+    mkdir /3p_src && \
+    mkdir /3p_src/git && \
+    cd /3p_src/git && \
+    wget https://codeload.github.com/git/git/tar.gz/v2.7.4 && \
+    apt-get --purge remove -y wget
+
+WORKDIR /
+# Copy NOTICE generate tool & License file
+COPY generate_notice.sh LICENSE.txt  /
+RUN bash generate_notice.sh && rm generate_notice.sh

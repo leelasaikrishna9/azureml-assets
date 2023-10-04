@@ -1,0 +1,7 @@
+[
+ {   
+"vm_size": "STANDARD_DS4_V2",
+"source_directory":"base_images/tests/sample_scripts/sampletest/",
+"script_name": "samplehello_test.py"
+ }
+]

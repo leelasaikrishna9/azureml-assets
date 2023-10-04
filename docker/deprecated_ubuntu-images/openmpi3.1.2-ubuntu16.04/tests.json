@@ -1,0 +1,12 @@
+[
+  {
+    "vm_size": "STANDARD_DS4_V2",
+    "node_count": 1,
+    "process_count_per_node": 1,
+    "source_directory": "base_images/tests/sample_scripts/sklearn/0.20.3",
+    "script_name": "sklearn_diabetes.py",
+    "use_gpu": false,
+    "framework": "Python",
+    "pip_packages": [ "sklearn" ]
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "Registrations": [
+        {
+            "Component": {
+                "Type": "other",
+                "Other": {
+                "Distribution": "windows",
+                    "Name": "miniconda3",
+                    "Release": "2020-06-16",
+                    "Version": "4.8.3"
+                    "DownloadUrl": "https://repo.anaconda.com/miniconda/Miniconda3-py37_4.8.3-Windows-x86_64.exe"
+                }
+            }
+        },
+        {
+            "Component": {
+                "Type": "other",
+                "Other": {
+                    "Distribution": "windows",
+                    "Name": "7-Zip",
+                    "Release": "2019-02-21",
+                    "Version": "19.00"
+                    "DownloadUrl": "https://www.7-zip.org/a/7z1900-x64.exe"
+                }
+            }
+        },
+        {
+            "Component": {
+                "Type": "other",
+                "Other": {
+                    "Distribution": "windows",
+                    "Name": "VC14",
+                    "Release": "10-07-2015",
+                    "Version": "2015"
+                    "DownloadUrl": "https://download.visualstudio.microsoft.com/download/pr/10912041/cee5d6bca2ddbcd039da727bf4acb48a/vcredist_x64.exe"
+                }
+            }
+        },
+         {
+            "Component": {
+                "Type": "other",
+                "Other": {
+                    "Distribution": "windows",
+                    "Name": "VC12",
+                    "Release": "20-11-2013",
+                    "Version": "2012"
+                    "DownloadUrl": "https://aka.ms/vs/16/release/VC_redist.x64.exe"
+                }
+            },
+            {
+            "Component": {
+                "Type": "other",
+                "Other": {
+                    "Distribution": "windows",
+                    "Name": "VC10",
+                    "Release": "03-03-2011",
+                    "Version": "2010"
+                    "DownloadUrl": "https://download.microsoft.com/download/3/2/2/3224B87F-CFA0-4E70-BDA3-3DE650EFEBA5/vcredist_x64.exe"
+                }
+            }
+        },
+        {
+            "Component": {
+                "Type": "other",
+                "Other": {
+                    "Distribution": "windows",
+                    "Name": "Nuget",
+                    "Release": "08-14-2020",
+                    "Version": "5.7"
+                    "DownloadUrl": "https://dist.nuget.org/win-x86-commandline/v5.7.0/nuget.exe "
+                }
+            }
+        }
+    ]
+}

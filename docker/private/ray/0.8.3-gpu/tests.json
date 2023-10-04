@@ -1,0 +1,8 @@
+[
+  {
+    "vm_size": "STANDARD_NC6",
+    "script_name": "cartpole.py",
+    "source_directory": "base_images/tests/sample_scripts/ray/base",
+    "use_gpu": true
+  }
+]

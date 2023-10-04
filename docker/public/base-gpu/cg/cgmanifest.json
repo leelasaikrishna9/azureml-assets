@@ -1,0 +1,2766 @@
+{
+  "Registrations": [
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libmlx5-1",
+          "Release": "18.04.5",
+          "Version": "1.0.2-1ubuntu2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgssapi3-heimdal",
+          "Release": "18.04.5",
+          "Version": "7.5.0+dfsg-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgnutlsxx28",
+          "Release": "18.04.5",
+          "Version": "3.5.18-1ubuntu1.4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-compat-11-0",
+          "Release": "18.04.5",
+          "Version": "450.51.06-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgmpxx4ldbl",
+          "Release": "18.04.5",
+          "Version": "6.1.2+dfsg-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "debianutils",
+          "Release": "18.04.5",
+          "Version": "4.8.4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "iproute2",
+          "Release": "18.04.5",
+          "Version": "4.15.0-2ubuntu1.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-nvprof-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libelf1",
+          "Release": "18.04.5",
+          "Version": "0.170-0.4ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "bash",
+          "Release": "18.04.5",
+          "Version": "4.4.18-2ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvparsers-dev",
+          "Release": "18.04.5",
+          "Version": "7.1.3-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libtcmalloc-minimal4",
+          "Release": "18.04.5",
+          "Version": "2.5-2.2ubuntu3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libevent-2.1-6",
+          "Release": "18.04.5",
+          "Version": "2.1.8-stable-4build1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "liblz4-1",
+          "Release": "18.04.5",
+          "Version": "0.0~r131-2ubuntu3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgssapi-krb5-2",
+          "Release": "18.04.5",
+          "Version": "1.16-2ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcufft-11-0",
+          "Release": "18.04.5",
+          "Version": "10.2.1.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libss2",
+          "Release": "18.04.5",
+          "Version": "1.44.1-1ubuntu1.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libsqlite3-0",
+          "Release": "18.04.5",
+          "Version": "3.22.0-1ubuntu0.4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libfdisk1",
+          "Release": "18.04.5",
+          "Version": "2.31.1-0.4ubuntu3.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "dirmngr",
+          "Release": "18.04.5",
+          "Version": "2.2.4-1ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvinfer-dev",
+          "Release": "18.04.5",
+          "Version": "7.1.3-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "ncurses-base",
+          "Release": "18.04.5",
+          "Version": "6.1-1ubuntu1.18.04"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libonig4",
+          "Release": "18.04.5",
+          "Version": "6.7.0-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnuma-dev",
+          "Release": "18.04.5",
+          "Version": "2.0.11-2.1ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "pciutils",
+          "Release": "18.04.5",
+          "Version": "1:3.5.2-1ubuntu1.1"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "wget",
+          "Release": "18.04.5",
+          "Version": "1.19.4-1ubuntu2.2"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "git",
+          "Release": "18.04.5",
+          "Version": "1:2.17.1-1ubuntu0.9"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cpio",
+          "Release": "18.04.5",
+          "Version": "2.12+dfsg-6ubuntu0.18.04.4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcusolver-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "10.6.0.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-cudart-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libidn2-0-dev",
+          "Release": "18.04.5",
+          "Version": "2.0.4-1.1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcurl4-openssl-dev",
+          "Release": "18.04.5",
+          "Version": "7.58.0-2ubuntu3.10"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "ca-certificates",
+          "Release": "18.04.5",
+          "Version": "20210119~18.04.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgpm2",
+          "Release": "18.04.5",
+          "Version": "1.20.7-5"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libheimbase1-heimdal",
+          "Release": "18.04.5",
+          "Version": "7.5.0+dfsg-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "less",
+          "Release": "18.04.5",
+          "Version": "487-0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpsl5",
+          "Release": "18.04.5",
+          "Version": "0.19.1-5build1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libibverbs-dev",
+          "Release": "18.04.5",
+          "Version": "17.1-1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "librdmacm-dev",
+          "Release": "18.04.5",
+          "Version": "17.1-1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "perftest",
+          "Release": "18.04.5",
+          "Version": "4.1+0.2.g770623f-1"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "infiniband-diags",
+          "Release": "18.04.5",
+          "Version": "2.0.0-2"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "rdmacm-utils",
+          "Release": "18.04.5",
+          "Version": "17.1-1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libunbound2",
+          "Release": "18.04.5",
+          "Version": "1.6.7-1ubuntu2.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnccl-dev",
+          "Release": "18.04.5",
+          "Version": "2.7.8-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "debconf",
+          "Release": "18.04.5",
+          "Version": "1.5.66ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-nvrtc-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libdb5.3",
+          "Release": "18.04.5",
+          "Version": "5.3.28-13.1ubuntu1.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "grep",
+          "Release": "18.04.5",
+          "Version": "3.1-2build1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvjpeg-11-0",
+          "Release": "18.04.5",
+          "Version": "11.1.1.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-nvdisasm-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-sanitizer-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgcrypt20",
+          "Release": "18.04.5",
+          "Version": "1.8.1-4ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "bzip2",
+          "Release": "18.04.5",
+          "Version": "1.0.6-8.1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "build-essential",
+          "Release": "18.04.5",
+          "Version": "12.4ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libattr1",
+          "Release": "18.04.5",
+          "Version": "2.4.47-2build1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "rsyslog",
+          "Release": "18.04.5",
+          "Version": "8.32.0-1ubuntu4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcap-ng0",
+          "Release": "18.04.5",
+          "Version": "0.7.7-3.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgflags2.2",
+          "Release": "18.04.5",
+          "Version": "2.2.1-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-nvrtc-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libseccomp2",
+          "Release": "18.04.5",
+          "Version": "2.4.3-1ubuntu3.18.04.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpam0g",
+          "Release": "18.04.5",
+          "Version": "1.1.8-3.6ubuntu2.18.04.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libkrb5support0",
+          "Release": "18.04.5",
+          "Version": "1.16-2ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "ibverbs-utils",
+          "Release": "18.04.5",
+          "Version": "17.1-1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "ibutils",
+          "Release": "18.04.5",
+          "Version": "1.5.7-5ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libslurm32",
+          "Release": "18.04.5",
+          "Version": "17.11.2-1build1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libblkid1",
+          "Release": "18.04.5",
+          "Version": "2.31.1-0.4ubuntu3.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libncursesw5",
+          "Release": "18.04.5",
+          "Version": "6.1-1ubuntu1.18.04"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libestr0",
+          "Release": "18.04.5",
+          "Version": "0.1.10-2.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libmnl0",
+          "Release": "18.04.5",
+          "Version": "1.0.4-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcusparse-11-0",
+          "Release": "18.04.5",
+          "Version": "11.1.1.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "jq",
+          "Release": "18.04.5",
+          "Version": "1.5+dfsg-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libp11-kit-dev",
+          "Release": "18.04.5",
+          "Version": "0.23.21-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libglib2.0-0",
+          "Release": "18.04.5",
+          "Version": "2.56.4-0ubuntu0.18.04.8"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "nettle-dev",
+          "Release": "18.04.5",
+          "Version": "3.4-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "ucf",
+          "Release": "18.04.5",
+          "Version": "3.0038"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libibverbs1",
+          "Release": "18.04.5",
+          "Version": "17.1-1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcusolver-11-0",
+          "Release": "18.04.5",
+          "Version": "10.6.0.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libapt-pkg5.0",
+          "Release": "18.04.5",
+          "Version": "1.6.12ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgnutls-dane0",
+          "Release": "18.04.5",
+          "Version": "3.5.18-1ubuntu1.4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libtasn1-6-dev",
+          "Release": "18.04.5",
+          "Version": "4.13-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcurand-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "10.2.1.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libudev1",
+          "Release": "18.04.5",
+          "Version": "237-3ubuntu10.42"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libssl1.1",
+          "Release": "18.04.5",
+          "Version": "1.1.1-1ubuntu2.1~18.04.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-nvml-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.167-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "mount",
+          "Release": "18.04.5",
+          "Version": "2.31.1-0.4ubuntu3.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libsystemd0",
+          "Release": "18.04.5",
+          "Version": "237-3ubuntu10.46"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgnutls28-dev",
+          "Release": "18.04.5",
+          "Version": "3.5.18-1ubuntu1.4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libhx509-5-heimdal",
+          "Release": "18.04.5",
+          "Version": "7.5.0+dfsg-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnginx-mod-http-echo",
+          "Release": "18.04.5",
+          "Version": "1.14.0-0ubuntu1.7"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libhcrypto4-heimdal",
+          "Release": "18.04.5",
+          "Version": "7.5.0+dfsg-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "logrotate",
+          "Release": "18.04.5",
+          "Version": "3.11.0-0.1ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libaudit1",
+          "Release": "18.04.5",
+          "Version": "2.8.2-1ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpopt0",
+          "Release": "18.04.5",
+          "Version": "1.16-11"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcusparse-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "11.1.1.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libuuid1",
+          "Release": "18.04.5",
+          "Version": "2.31.1-0.4ubuntu3.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libsemanage-common",
+          "Release": "18.04.5",
+          "Version": "2.7-2build2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libk5crypto3",
+          "Release": "18.04.5",
+          "Version": "1.16-2ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "patch",
+          "Release": "18.04.5",
+          "Version": "2.7.6-2ubuntu1.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libtasn1-doc",
+          "Release": "18.04.5",
+          "Version": "4.13-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "nano",
+          "Release": "18.04.5",
+          "Version": "2.9.3-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libfastjson4",
+          "Release": "18.04.5",
+          "Version": "0.99.8-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libncurses5",
+          "Release": "18.04.5",
+          "Version": "6.1-1ubuntu1.18.04"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "adduser",
+          "Release": "18.04.5",
+          "Version": "3.116ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "ncurses-bin",
+          "Release": "18.04.5",
+          "Version": "6.1-1ubuntu1.18.04"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcublas-11-0",
+          "Release": "18.04.5",
+          "Version": "11.2.0.252-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "procps",
+          "Release": "18.04.5",
+          "Version": "2:3.3.12-3ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "librdmacm1",
+          "Release": "18.04.5",
+          "Version": "17.1-1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "passwd",
+          "Release": "18.04.5",
+          "Version": "4.5-1ubuntu2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcurl3-gnutls",
+          "Release": "18.04.5",
+          "Version": "7.58.0-2ubuntu3.10"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libunistring2",
+          "Release": "18.04.5",
+          "Version": "0.9.9-0ubuntu2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libkrb5-26-heimdal",
+          "Release": "18.04.5",
+          "Version": "7.5.0+dfsg-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnpp-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "11.1.0.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libedit2",
+          "Release": "18.04.5",
+          "Version": "3.1-20170329-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "sensible-utils",
+          "Release": "18.04.5",
+          "Version": "0.0.12"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "mime-support",
+          "Release": "18.04.5",
+          "Version": "3.60ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "gpgv",
+          "Release": "18.04.5",
+          "Version": "2.2.4-1ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libbsd0",
+          "Release": "18.04.5",
+          "Version": "0.8.7-1ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libapt-inst2.0",
+          "Release": "18.04.5",
+          "Version": "1.6.12ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcudnn8-dev",
+          "Release": "18.04.5",
+          "Version": "8.0.4.12-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "diffutils",
+          "Release": "18.04.5",
+          "Version": "3.6-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "apt",
+          "Release": "18.04.5",
+          "Version": "1.6.13ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpmi2-0",
+          "Release": "18.04.5",
+          "Version": "17.11.2-1build1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvonnxparsers7",
+          "Release": "18.04.5",
+          "Version": "7.1.3-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpam-runtime",
+          "Release": "18.04.5",
+          "Version": "1.1.8-3.6ubuntu2.18.04.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvinfer-plugin7",
+          "Release": "18.04.5",
+          "Version": "7.1.3-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "coreutils",
+          "Release": "18.04.5",
+          "Version": "8.28-1ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libc6-dev",
+          "Release": "18.04.5",
+          "Version": "2.27-3ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "base-files",
+          "Release": "18.04.5",
+          "Version": "10.1ubuntu2.9"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvinfer-bin",
+          "Release": "18.04.5",
+          "Version": "7.1.3-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "nsight-compute-2020.1.2",
+          "Release": "18.04.5",
+          "Version": "2020.1.2.4-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libheimntlm0-heimdal",
+          "Release": "18.04.5",
+          "Version": "7.5.0+dfsg-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-memcheck-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "login",
+          "Release": "18.04.5",
+          "Version": "4.5-1ubuntu2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libldap-common",
+          "Release": "18.04.5",
+          "Version": "2.4.45+dfsg-1ubuntu1.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "gpg-agent",
+          "Release": "18.04.5",
+          "Version": "2.2.4-1ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "openssh-client",
+          "Release": "18.04.5",
+          "Version": "1:7.6p1-4ubuntu0.3"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "openssh-server",
+          "Release": "18.04.5",
+          "Version": "1:7.6p1-4ubuntu0.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libkeyutils1",
+          "Release": "18.04.5",
+          "Version": "1.5.9-9.2ubuntu2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libffi6",
+          "Release": "18.04.5",
+          "Version": "3.2.1-8"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpam-modules-bin",
+          "Release": "18.04.5",
+          "Version": "1.1.8-3.6ubuntu2.18.04.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "init-system-helpers",
+          "Release": "18.04.5",
+          "Version": "1.51"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libsemanage1",
+          "Release": "18.04.5",
+          "Version": "2.7-2build2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcublas-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "11.2.0.252-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "nginx-common",
+          "Release": "18.04.5",
+          "Version": "1.14.0-0ubuntu1.7"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvparsers7",
+          "Release": "18.04.5",
+          "Version": "7.1.3-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "bsdutils",
+          "Release": "18.04.5",
+          "Version": "2.31.1-0.4ubuntu3.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libc-bin",
+          "Release": "18.04.5",
+          "Version": "2.27-3ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libasn1-8-heimdal",
+          "Release": "18.04.5",
+          "Version": "7.5.0+dfsg-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "base-passwd",
+          "Release": "18.04.5",
+          "Version": "3.5.44"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "nsight-systems-cli-2020.3.2",
+          "Release": "18.04.5",
+          "Version": "2020.3.2.6-87e152c"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgcc1",
+          "Release": "18.04.5",
+          "Version": "8.4.0-1ubuntu1~18.04"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "fdisk",
+          "Release": "18.04.5",
+          "Version": "2.31.1-0.4ubuntu3.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgnutls-openssl27",
+          "Release": "18.04.5",
+          "Version": "3.5.18-1ubuntu1.4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "hostname",
+          "Release": "18.04.5",
+          "Version": "3.20"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "util-linux",
+          "Release": "18.04.5",
+          "Version": "2.31.1-0.4ubuntu3.7"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "ubuntu-keyring",
+          "Release": "18.04.5",
+          "Version": "2018.09.18.1~18.04.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "liblzma5",
+          "Release": "18.04.5",
+          "Version": "5.2.2-1.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpcre3",
+          "Release": "18.04.5",
+          "Version": "8.39-9"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnpp-11-0",
+          "Release": "18.04.5",
+          "Version": "11.1.0.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-nvtx-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.167-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "gcc-8-base",
+          "Release": "18.04.5",
+          "Version": "8.4.0-1ubuntu1~18.04"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-driver-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libhogweed4",
+          "Release": "18.04.5",
+          "Version": "3.4-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libc-dev-bin",
+          "Release": "18.04.5",
+          "Version": "2.27-3ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-cudart-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libaudit-common",
+          "Release": "18.04.5",
+          "Version": "2.8.2-1ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libsasl2-modules-db",
+          "Release": "18.04.5",
+          "Version": "2.1.27~101-g0780600+dfsg-3ubuntu2.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpam-modules",
+          "Release": "18.04.5",
+          "Version": "1.1.8-3.6ubuntu2.18.04.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvonnxparsers-dev",
+          "Release": "18.04.5",
+          "Version": "7.1.3-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "e2fsprogs",
+          "Release": "18.04.5",
+          "Version": "1.44.1-1ubuntu1.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libtasn1-6",
+          "Release": "18.04.5",
+          "Version": "4.13-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-nvprune-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libp11-kit0",
+          "Release": "18.04.5",
+          "Version": "0.23.9-2ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcudnn8",
+          "Release": "18.04.5",
+          "Version": "8.0.4.12-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libjq1",
+          "Release": "18.04.5",
+          "Version": "1.5+dfsg-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libsepol1",
+          "Release": "18.04.5",
+          "Version": "2.7-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvinfer7",
+          "Release": "18.04.5",
+          "Version": "7.1.3-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "lsb-base",
+          "Release": "18.04.5",
+          "Version": "9.20170808ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "apt-utils",
+          "Release": "18.04.5",
+          "Version": "1.6.12ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libdebconfclient0",
+          "Release": "18.04.5",
+          "Version": "0.213ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgomp1",
+          "Release": "18.04.5",
+          "Version": "8.4.0-1ubuntu1~18.04"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libroken18-heimdal",
+          "Release": "18.04.5",
+          "Version": "7.5.0+dfsg-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libunwind8",
+          "Release": "18.04.5",
+          "Version": "1.2.1-8"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "numactl",
+          "Release": "18.04.5",
+          "Version": "2.0.11-2.1ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libstdc++6",
+          "Release": "18.04.5",
+          "Version": "8.4.0-1ubuntu1~18.04"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnl-3-200",
+          "Release": "18.04.5",
+          "Version": "3.2.29-0ubuntu3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libkrb5-3",
+          "Release": "18.04.5",
+          "Version": "1.16-2ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "perl-base",
+          "Release": "18.04.5",
+          "Version": "5.26.1-6ubuntu0.5"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libselinux1",
+          "Release": "18.04.5",
+          "Version": "2.7-2build2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "curl",
+          "Release": "18.04.5",
+          "Version": "7.58.0-2ubuntu3.16"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libsmartcols1",
+          "Release": "18.04.5",
+          "Version": "2.31.1-0.4ubuntu3.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "vim-runtime",
+          "Release": "18.04.5",
+          "Version": "8.0.1453-1ubuntu1.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libsasl2-2",
+          "Release": "18.04.5",
+          "Version": "2.1.27~101-g0780600+dfsg-3ubuntu2.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnl-route-3-200",
+          "Release": "18.04.5",
+          "Version": "3.2.29-0ubuntu3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcom-err2",
+          "Release": "18.04.5",
+          "Version": "1.44.1-1ubuntu1.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcurand-11-0",
+          "Release": "18.04.5",
+          "Version": "10.2.1.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libc6",
+          "Release": "18.04.5",
+          "Version": "2.27-3ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgoogle-glog0v5",
+          "Release": "18.04.5",
+          "Version": "0.3.5-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpmi2-0-dev",
+          "Release": "18.04.5",
+          "Version": "17.11.2-1build1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgmp-dev",
+          "Release": "18.04.5",
+          "Version": "6.1.2+dfsg-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "dapl2-utils",
+          "Release": "18.04.5",
+          "Version": "2.1.10.1.f1e05b7a-3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcurl4",
+          "Release": "18.04.5",
+          "Version": "7.58.0-2ubuntu3.10"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libtinfo5",
+          "Release": "18.04.5",
+          "Version": "6.1-1ubuntu1.18.04"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "librtmp1",
+          "Release": "18.04.5",
+          "Version": "2.4+20151223.gitfa8646d.1-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnuma1",
+          "Release": "18.04.5",
+          "Version": "2.0.11-2.1ubuntu0.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cron",
+          "Release": "18.04.5",
+          "Version": "3.0pl1-128.1ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "gzip",
+          "Release": "18.04.5",
+          "Version": "1.6-5ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "slapd",
+          "Release": "18.04.5",
+          "Version": "2.4.45+dfsg-1ubuntu1.10"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "sysvinit-utils",
+          "Release": "18.04.5",
+          "Version": "2.88dsf-59.10ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "runit",
+          "Release": "18.04.5",
+          "Version": "2.1.2-9.2ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "dash",
+          "Release": "18.04.5",
+          "Version": "0.5.8-2.10"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libwind0-heimdal",
+          "Release": "18.04.5",
+          "Version": "7.5.0+dfsg-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libssl1.0.0",
+          "Release": "18.04.5",
+          "Version": "1.0.2n-1ubuntu5.6"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libxrender-dev",
+          "Release": "18.04.5",
+          "Version": "1:0.9.10-1"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libxext6",
+          "Release": "18.04.5",
+          "Version": "2:1.3.3-1"
+        },
+        "Type": "Linux"
+      }
+    },
+	{
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libsm6",
+          "Release": "18.04.5",
+          "Version": "2:1.2.2-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libldap-2.4-2",
+          "Release": "18.04.5",
+          "Version": "2.4.45+dfsg-1ubuntu1.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "vim-common",
+          "Release": "18.04.5",
+          "Version": "8.0.1453-1ubuntu1.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libidn2-dev",
+          "Release": "18.04.5",
+          "Version": "2.0.4-1.1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-gdb-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgnutls30",
+          "Release": "18.04.5",
+          "Version": "3.5.18-1ubuntu1.4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvjpeg-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "11.1.1.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgpg-error0",
+          "Release": "18.04.5",
+          "Version": "1.27-6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "mawk",
+          "Release": "18.04.5",
+          "Version": "1.3.3-17ubuntu3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "linux-libc-dev",
+          "Release": "18.04.5",
+          "Version": "4.15.0-117.118"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "readline-common",
+          "Release": "18.04.5",
+          "Version": "7.0-3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "zlib1g",
+          "Release": "18.04.5",
+          "Version": "1.2.11.dfsg-0ubuntu2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libext2fs2",
+          "Release": "18.04.5",
+          "Version": "1.44.1-1ubuntu1.3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnghttp2-14",
+          "Release": "18.04.5",
+          "Version": "1.30.0-1ubuntu1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "nginx-light",
+          "Release": "18.04.5",
+          "Version": "1.14.0-0ubuntu1.7"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libgmp10",
+          "Release": "18.04.5",
+          "Version": "6.1.2+dfsg-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnvinfer-plugin-dev",
+          "Release": "18.04.5",
+          "Version": "7.1.3-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libb64-0d",
+          "Release": "18.04.5",
+          "Version": "1.2-4"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libbz2-1.0",
+          "Release": "18.04.5",
+          "Version": "1.0.6-8.1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnccl2",
+          "Release": "18.04.5",
+          "Version": "2.7.8-1+cuda11.0"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "findutils",
+          "Release": "18.04.5",
+          "Version": "4.6.0+git+20170828-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libcufft-dev-11-0",
+          "Release": "18.04.5",
+          "Version": "10.2.1.245-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libdapl2",
+          "Release": "18.04.5",
+          "Version": "2.1.10.1.f1e05b7a-3"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libprocps6",
+          "Release": "18.04.5",
+          "Version": "3.3.12-3ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "sed",
+          "Release": "18.04.5",
+          "Version": "4.4-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libzstd1",
+          "Release": "18.04.5",
+          "Version": "1.3.3+dfsg-2ubuntu1.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "cuda-cuobjdump-11-0",
+          "Release": "18.04.5",
+          "Version": "11.0.221-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libmount1",
+          "Release": "18.04.5",
+          "Version": "2.31.1-0.4ubuntu3.6"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libpython3.7-minimal",
+          "Release": "18.04.5",
+          "Version": "3.7.9-1~18.04ubuntu1.1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libre2-4",
+          "Release": "18.04.5",
+          "Version": "20180201+dfsg-2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "zlib1g-dev",
+          "Release": "18.04.5",
+          "Version": "1.2.11.dfsg-0ubuntu2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libnettle6",
+          "Release": "18.04.5",
+          "Version": "3.4-1"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libidn2-0",
+          "Release": "18.04.5",
+          "Version": "2.0.4-1.1ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libc6",
+          "Release": "18.04.5",
+          "Version": "2.27-3ubuntu1.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "tar",
+          "Release": "18.04.5",
+          "Version": "1.29b-2ubuntu0.2"
+        },
+        "Type": "Linux"
+      }
+    },
+    {
+      "Component": {
+        "Linux": {
+          "Distribution": "Ubuntu",
+          "Name": "libacl1",
+          "Release": "18.04.5",
+          "Version": "2.2.52-3build1"
+        },
+        "Type": "Linux"
+      }
+    }
+  ],
+  "Version": 1
+}

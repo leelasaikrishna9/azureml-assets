@@ -1,0 +1,9 @@
+[
+  {
+    "vm_size": "STANDARD_D2_V2",
+    "node_count": 1,
+    "source_directory": "base_images/tests/sample_scripts/windowsservercore/windows-servercore-1809",
+    "script_name": "sleep.py",
+    "os_platform": "windows"
+  }
+]

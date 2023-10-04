@@ -1,0 +1,25 @@
+{
+    "accountContext": {
+      "subscriptionId": "TEST_SUBS_ID",
+      "resourceGroupName": "TEST_RG",
+      "accountName": "TEST_ACC_NAME",
+      "workspaceId": "TEST_WORKSPACE_ID"
+    },
+    "models": {
+      "score_basic.py": {
+        "version": 1,
+        "id": "score_basic.py:1",
+        "internalId": "973bd63526514d129a497de991617eb2"
+      }
+    },
+    "modelsInfo": {
+      "score_basic.py": {
+        "1": {
+          "version": 1,
+          "id": "score_basic.py:1",
+          "internalId": "973bd63526514d129a497de991617eb2",
+          "dataCollectorStoragePath": "/modeldata/5f08d643-1910-4a38-a7c7-84a39d4f42e0/TEST_RG/TEST_ACC_NAME/aks-service-1/score_basic.py/1/"
+        }
+      }
+    }
+  }

@@ -1,0 +1,7 @@
+[
+  {
+    "vm_size": "STANDARD_DS4_V2",
+    "script_name": "ffmpeg-check.py",
+    "source_directory": "base_images/tests/sample_scripts/ray/base"
+  }
+]
